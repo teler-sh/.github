@@ -1,0 +1,13 @@
+{
+    "name": "Go Tests Workflow",
+    "description": "teler's Go tests (w/ SAST) starter workflow.",
+    "iconName": "shield-lock",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^go\\.mod$",
+        "^go\\.sum$",
+        ".*\\.go$"
+    ]
+}
